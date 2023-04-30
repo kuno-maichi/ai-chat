@@ -19,3 +19,7 @@ pip install openai
 ```console
 python3 chat.py
 ```
+
+# スクリーンショット
+
+![ai-chat](https://user-images.githubusercontent.com/60324323/235350053-957ef235-e603-4044-aa83-3d77f3ce8564.png)
