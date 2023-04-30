@@ -26,3 +26,7 @@ python3 chat.py
 最初に'system'ロールに与えるキャラ設定はsystem.txtに書かれています。この内容を書き換えることで、自由にGPT-4 (あるいはGPT-3.5）のAIの人格や名前、性格や喋り方、好きなことや嫌いなことなどを自在に設定することができます。
 
 初期設定では`system.txt`の中身は[こちら](https://github.com/kuno-maichi/ai-chat/tree/main/system.txt)になっています。
+
+# スクリーンショット
+
+![ai-chat](https://user-images.githubusercontent.com/60324323/235350053-957ef235-e603-4044-aa83-3d77f3ce8564.png)
