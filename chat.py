@@ -3,9 +3,9 @@ import os
 
 openai.api_key = os.environ['OPENAI_API_KEY']
 # AIのキャラ設定を書き込む
-configuration = """
-あなたは親切な大阪人です。userの質問に大阪弁で返します。
-"""
+
+with open("system.txt", 'r') as f:
+    configuration = f.read()
 
 Messages = []
 Messages.append({"role": "system", "content": configuration})
